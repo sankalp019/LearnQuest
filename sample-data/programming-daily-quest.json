@@ -1,0 +1,23 @@
+[
+  {
+    "question_text": "Which data structure follows FIFO order?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "correct_answer": "Queue",
+    "points": 10,
+    "explanation": "A queue removes items in first-in, first-out order."
+  },
+  {
+    "question_text": "Which complexity describes binary search on a sorted array?",
+    "options": ["O(n)", "O(n²)", "O(log n)", "O(1)"],
+    "correct_answer": "O(log n)",
+    "points": 10,
+    "explanation": "Binary search halves the remaining search space on each step."
+  },
+  {
+    "question_text": "Which keyword declares a block-scoped variable in JavaScript?",
+    "options": ["var", "function", "global", "let"],
+    "correct_answer": "let",
+    "points": 10,
+    "explanation": "let declares a variable scoped to its enclosing block."
+  }
+]

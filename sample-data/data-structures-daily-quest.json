@@ -1,0 +1,7 @@
+[
+  {"question_text":"Which data structure uses FIFO order?","options":["Stack","Queue","Binary tree","Hash map"],"correct_answer":"Queue","points":10,"explanation":"A queue removes the earliest inserted item first."},
+  {"question_text":"What is the average lookup time for a well-distributed hash table?","options":["O(1)","O(log n)","O(n log n)","O(n²)"],"correct_answer":"O(1)","points":10,"explanation":"Hashing maps keys to buckets, giving expected constant-time lookup under good distribution."},
+  {"question_text":"Which traversal visits a binary search tree's keys in sorted order?","options":["Pre-order","Post-order","In-order","Level-order"],"correct_answer":"In-order","points":10,"explanation":"In-order traversal visits left subtree, node, then right subtree."},
+  {"question_text":"Which graph representation is usually more space-efficient for a sparse graph?","options":["Adjacency matrix","Adjacency list","Incidence matrix","Full transitive closure"],"correct_answer":"Adjacency list","points":10,"explanation":"An adjacency list stores actual edges rather than every possible vertex pair."},
+  {"question_text":"What is the worst-case time complexity of binary search on a sorted array?","options":["O(1)","O(log n)","O(n)","O(n log n)"],"correct_answer":"O(log n)","points":10,"explanation":"Each comparison halves the remaining search interval."}
+]
